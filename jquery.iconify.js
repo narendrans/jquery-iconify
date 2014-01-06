@@ -3,6 +3,7 @@
    Author: Naren
    Website: http://narendran.info
    License: GNU v2
+   Version: 1.1
 */
 
 (function ($) {
@@ -18,6 +19,7 @@
         var animate = true;
         var animateMultiplier = 1.5;
 
+        // settings
         var settings = $.extend({
             color: color,
             hoverColor: hoverColor,
