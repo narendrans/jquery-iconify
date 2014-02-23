@@ -1,17 +1,17 @@
 {
-  name: 'jquery-iconify',
-  version: '1.0.1',
-  authors: [
-    'Naren <naren.kernel@gmail.com>'
+  "name": "jquery-iconify",
+  "version": "1.0.1",
+  "authors": [
+    "Naren <naren.kernel@gmail.com>"
   ],
-  description: 'This plugin will create an icon for your links using jquery, fontawesome',
-  main: 'jquery.iconify.js',
-  keywords: [
-    'jquery',
-    'iconify',
-    'icon',
-    'fontawesome'
+  "description": "This plugin will create an icon for your links using jquery, fontawesome",
+  "main": "jquery.iconify.js",
+  "keywords": [
+    "jquery",
+    "iconify",
+    "icon",
+    "fontawesome"
   ],
-  license: 'MIT',
-  homepage: 'https://github.com/narendrans/jquery-iconify'
+  "license": "MIT",
+  "homepage": "https://github.com/narendrans/jquery-iconify"
 }
