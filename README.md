@@ -7,7 +7,7 @@ This plugin will create an icon for your links using jquery, fontawesome
 
 You can install the plugin using bower!
 
-```bower install jquery_iconfiy```
+```bower install jquery-iconfiy```
 
 HTML `<a href = "http://facebook.com" id="facebook"></a>`
 
