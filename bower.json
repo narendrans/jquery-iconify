@@ -1,6 +1,6 @@
 {
-  name: 'jQuery-Iconify',
-  version: '1.0.0',
+  name: 'jquery-iconify',
+  version: '1.0.1',
   authors: [
     'Naren <naren.kernel@gmail.com>'
   ],
@@ -8,11 +8,10 @@
   main: 'jquery.iconify.js',
   keywords: [
     'jquery',
+    'iconify',
     'icon',
-    'fontawesome',
-    'iconify'
+    'fontawesome'
   ],
-  license: 'GPL',
-  homepage: 'https://github.com/narendrans/jquery-iconify',
-  private: false
+  license: 'MIT',
+  homepage: 'https://github.com/narendrans/jquery-iconify'
 }
