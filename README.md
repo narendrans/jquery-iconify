@@ -3,7 +3,7 @@ jquery-iconify
 
 This plugin will create an icon for your links using jquery, fontawesome
 
-[jsFiddle Demo](http://jsfiddle.net/2U2Wg/2/)
+[jsFiddle Demo](http://jsfiddle.net/2U2Wg/7/)  
 
 You can install the plugin using bower!
 
